@@ -30,8 +30,8 @@ Terminal should open and you should see this:
 </kbd>
 
 
-once there it will prompt for you to create a password.<br/>
-once your done create your database with the following code.
+Once there it will prompt for you to create a password.<br/>
+Once your done create your database with the following code.
 ```SQL
 CREATE DATABASE portfolio
 ```
@@ -52,7 +52,7 @@ python3 manage.py migrate
 ```
 # HelloWorld! REST Framework
 
-run the portfolio-project on the Django server using localhost:8000<br/>
+Run the portfolio-project on the Django server using localhost:8000<br/>
 
 
 ```bash
